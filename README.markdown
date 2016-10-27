@@ -61,8 +61,8 @@ inserting sets modified option - ok
 ## Installation
 
 1. Make a `test/` directory in your plugin.
-2. Copy the files `runner.vim` and `test` to your `test/` directory.
-3. Adjust `test` to source your plugin's main file (e.g. plugin/YOUR_PLUGIN.vim).
+2. Copy the files [runner.vim](runner.vim) and [test](test) to your `test/` directory.
+3. Adjust [test](test) to source your plugin's main file (e.g. `plugin/YOUR_PLUGIN.vim`).
 4. Write your tests in a `test_YOUR_PLUGIN.vim` file.
 
 
